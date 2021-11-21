@@ -1,5 +1,5 @@
 <?php
 
-echo "Connected successfully";
+echo "New Connected successfully";
 
 ?>
